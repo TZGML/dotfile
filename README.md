@@ -1,3 +1,5 @@
+别忘了yay command-not found
+  
 # 效果预览  
 ---
 
